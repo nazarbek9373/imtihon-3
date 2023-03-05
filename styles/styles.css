@@ -104,7 +104,7 @@ a {
     background: #d6e5fd;
     border-radius: 0px 0px 0px 100px;
     padding-top: 25px;
-    background-image: url(./images/hero-bg.svg);
+    background-image: url(../images/hero-bg.svg);
 
 
 }
@@ -176,7 +176,7 @@ a {
 .phone-tel {
     width: 294.8px;
     height: 610px;
-    background-image: url(./images/Phone.png);
+    background-image: url(../images/Phone.png);
     margin-left: 203px;
     margin-top: 75px;
     z-index: 2;
@@ -402,7 +402,7 @@ a {
         border-radius: 0px 0px 0px 100px;
         margin-top: 50px;
         padding-top: 25px;
-        background-image: url(./images/2x.hero.svg);
+        background-image: url(../images/2x.hero.svg);
         background-size: cover;
 
 
@@ -416,7 +416,7 @@ a {
         border-radius: 25px;
         width: 164.14px;
         height: 340px;
-        background-image: url(./images/phon.svg);
+        background-image: url(../images/phon.svg);
         margin-left: 125px;
         margin-top: 80px;
         z-index: 2;
@@ -649,7 +649,7 @@ a {
         border-radius: 0px 0px 0px 100px;
         margin-top: 50px;
         padding-top: 25px;
-        background-image: url(./images/2x.hero.svg);
+        background-image: url(../images/2x.hero.svg);
         background-size: cover;
 
 
@@ -663,7 +663,7 @@ a {
         border-radius: 25px;
         width: 164.14px;
         height: 340px;
-        background-image: url(./images/Phone.png);
+        background-image: url(../images/Phone.png);
         margin-left: 125px;
         margin-top: 80px;
         z-index: 2;
@@ -895,7 +895,7 @@ a {
         border-radius: 0px 0px 0px 100px;
         margin-top: 50px;
         padding-top: 25px;
-        background-image: url(./images/2x.hero.svg);
+        background-image: url(../images/2x.hero.svg);
         background-size: cover;
 
 
@@ -909,7 +909,7 @@ a {
         border-radius: 25px;
         width: 164.14px;
         height: 340px;
-        background-image: url(./images/Phone.png);
+        background-image: url(../images/Phone.png);
         margin-left: 125px;
         margin-top: 80px;
         z-index: 2;
@@ -1137,7 +1137,7 @@ a {
         margin-top: 50px;
 
         padding-top: 25px;
-        background-image: url(./images/2x.hero.svg);
+        background-image: url(../images/2x.hero.svg);
 
     }
 
@@ -1149,7 +1149,7 @@ a {
         border-radius: 25px;
         width: 164.14px;
         height: 340px;
-        background-image: url(./images/phon.svg);
+        background-image: url(../images/phon.svg);
         margin-left: 125px;
         margin-top: 80px;
         z-index: 2;
@@ -1588,7 +1588,7 @@ a {
     border-radius: 0px 100px 100px 0px;
     max-width: 700px;
     height: 600px;
-    background-image: url(../../images/radius-card_one.png);
+    background-image: url(../images/radius-card_one.png);
 }
 
 .top_right {
@@ -1663,7 +1663,7 @@ a {
     margin-right: -13px;
     max-width: 700px;
     height: 600px;
-    background-image: url(../../images/radius-card_one.png);
+    background-image: url(../images/radius-card_one.png);
 }
 
 @media only screen and (max-width:989px) {
@@ -1706,7 +1706,7 @@ a {
         border-radius: 0px 100px 100px 0px;
         width: 700px;
         height: 600px;
-        background-image: url(../../images/radius-card_one.png);
+        background-image: url(../images/radius-card_one.png);
     }
 
     .top_right {
@@ -1788,7 +1788,7 @@ a {
         margin-right: -13px;
         max-width: 800px;
         min-height: 600px;
-        background-image: url(../../images/radius-card_one.png);
+        background-image: url(../images/radius-card_one.png);
     }
 }
 
@@ -1837,7 +1837,7 @@ a {
         border-radius: 0px 100px 100px 0px;
         max-width: 550px;
         min-height: 600px;
-        background-image: url(../../images/radius-card_one.png);
+        background-image: url(../images/radius-card_one.png);
     }
 
     .top_right {
@@ -1920,7 +1920,7 @@ a {
         margin-right: -13px;
         max-width: 900px;
         min-height: 600px;
-        background-image: url(../../images/radius-card_one.png);
+        background-image: url(../images/radius-card_one.png);
     }
 }
 
@@ -1966,7 +1966,7 @@ a {
         border-radius: 0px 100px 100px 0px;
         max-width: 400px;
         min-height: 600px;
-        background-image: url(../../images/radius-card_one.png);
+        background-image: url(../images/radius-card_one.png);
     }
 
     .top_right {
@@ -2045,7 +2045,7 @@ a {
         margin-right: -13px;
         max-width: 900px;
         min-height: 600px;
-        background-image: url(../../images/radius-card_one.png);
+        background-image: url(../images/radius-card_one.png);
     }
 }
 
@@ -2058,7 +2058,7 @@ a {
     border-radius: 50px;
     margin: 0 auto;
     margin-top: 150px;
-    background-image: url(../../images/radius-four.png);
+    background-image: url(../images/radius-four.png);
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -2151,7 +2151,7 @@ a {
         border-radius: 50px;
         margin: 0 auto;
         margin-top: 150px;
-        background-image: url(../../images/radius-four.png);
+        background-image: url(../images/radius-four.png);
         background-size: 72;
         display: -webkit-box;
         display: -ms-flexbox;
@@ -2247,7 +2247,7 @@ a {
         border-radius: 50px;
         margin: 0 auto;
         margin-top: 100px;
-        background-image: url(../../images/radius-four.png);
+        background-image: url(../images/radius-four.png);
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
